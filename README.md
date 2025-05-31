@@ -19,4 +19,4 @@ Mood Bloom is a flower-shaped wearable PCB designed as a calming, interactive fi
 # PCB
 ![image](https://github.com/user-attachments/assets/4fb1a34a-1c50-413c-a9dd-5c43265a14ea)
 
-# SLACK USERNAME: Asmita Adak
+# SLACK USERNAME: @Asmita Adak
